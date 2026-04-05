@@ -51,14 +51,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-
-## 🖼️ Demo
-
-https://github.com/Logiclayer1111/DrowsyDriverDetection/blob/main/Drowsy2-ezgif.com-video-to-gif-converter.gif
-
-
-
-
 ## Requirements
   ```bash
 opencv-python
