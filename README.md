@@ -77,10 +77,10 @@ pygame
 
 ## 📬 Contact
 
-- 📧 [suggalasaicharan789@gmail.com](mailto:suggalasaicharan789@gmail.com)
-- 💼 [https://www.linkedin.com/in/saicharansuggala/](https://www.linkedin.com/in/saicharansuggala/)
-- 🐙 [https://github.com/CharanSuggala26](https://github.com/CharanSuggala26)
-- 🌐 [https://my-portfolio-lovat-six-79.vercel.app/](https://my-portfolio-lovat-six-79.vercel.app/)
+- 📧 [atn2122804@gmail.com](mailto:atn2122804@gmail.com)
+- 💼 [https://www.linkedin.com/in/antoni-nowicki/](https://www.linkedin.com/in/antoni-nowicki/)
+- 🐙 [https://github.com/Logiclayer1111](https://github.com/Logiclayer1111)
+- 🌐 [https://my-portfolio-antoni-six-78.vercel.app/](https://my-portfolio-antoni-six-78.vercel.app/)
 
 
 
