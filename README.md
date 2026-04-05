@@ -54,7 +54,7 @@ python main.py
 
 ## 🖼️ Demo
 
-https://github.com/CharanSuggala26/DrowsyDriverDetection/blob/main/Drowsy2-ezgif.com-video-to-gif-converter.gif
+https://github.com/Logiclayer1111/DrowsyDriverDetection/blob/main/Drowsy2-ezgif.com-video-to-gif-converter.gif
 
 
 
